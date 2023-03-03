@@ -1,2 +1,2 @@
-# RACHID_MULEIA.github.io
+# RACHIDMULEIA.github.io
 My personal website
